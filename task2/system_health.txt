@@ -1,0 +1,135 @@
+report generaet ON 2026-07-07 :14-32-34
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 9%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
+======================================
+report generaet ON 2026-07-07 :14-33-26
+======================================
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 26%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
+======================================
+report generaet ON 2026-07-07 :14-35-23
+======================================
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 52%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
+======================================
+          SYSTEM HEALTH               
+report generaet ON 2026-07-07 :14-36-13
+======================================
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 26%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
+======================================
+          SYSTEM HEALTH               
+report generaet ON 2026-07-07 :14-44-28
+======================================
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 33%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   

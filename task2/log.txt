@@ -1,0 +1,57 @@
+======================================
+          SYSTEM HEALTH               
+======================================
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 20%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
+ if you want to save your report data in file show use this: ./file.sh >> your_file_name.txt
+======================================
+          SYSTEM HEALTH               
+======================================
+ if you want to save your report data in file show use this: ./file.sh >> your_file_name.txt
+report generaet ON 2026-07-07 :14-32-19
+                   
+                   
+=========== DISK INFO ============
+DISK usage is: 9
+           chill bro your disk sapec ki below 80% || current: 9%
+                   
+                   
+========= RAM INFO ========= 
+RAM info: 
+           total 3.8Gi
+           used 1.2Gi
+RAM_Usage: 31%
+           chill bro ram is below or equal of 75% || current: 31
+                   
+                   
+========= CPU USAGE ========= 
+CPU uasge
+           chill bro CPU usage is below 90% || current: 4%
+                   
+                   
+========= OVER ALL ========= 
+chill BRO system overall condition is good !!!!
+                   
+                   
